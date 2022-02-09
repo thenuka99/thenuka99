@@ -1,6 +1,12 @@
 ### Hi there 👋 I am Janith Thenuka Herath aka thenuka99
 
 > I am a hardworking individual who is dedicated towards his goals.
+<br />
+
+- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+<br>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&theme=radical"/>
@@ -27,5 +33,6 @@
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-<br />
 
+
+[linkedin]: https://www.linkedin.com/in/janith-thenuka-herath-1345661a5 
