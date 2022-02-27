@@ -9,7 +9,8 @@
 - 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **janithherath2@gmail.com**
-- 
+- 📝 I studied at Ananda College 
+- 💬 Ask me about: anything, I am happy to help
 <br><br><br><br>
 
 <p align="center">
