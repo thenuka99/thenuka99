@@ -11,10 +11,17 @@
 
 <br><br><br><br>
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</p>
+<p>
+ &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+</p>
+
 <br><br><br><br><br>
 
 ## Technologies currently using
@@ -37,9 +44,13 @@
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center">
+ <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
+</p>
+<br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenuka99=compact&theme=algolia" alt="Thenuka99" /></a> </p>
+<p align="center"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenuka99=compact&theme=algolia" alt="Thenuka99" /></a> </p>
 
 
 
