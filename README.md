@@ -51,8 +51,11 @@
 </p>
 <br>
 
-<p align="center"> 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenuka99=compact&theme=algolia" alt="Thenuka99" /></a> </p>
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="thenuka99" />
+ </a>
+</p>
 
 
 
