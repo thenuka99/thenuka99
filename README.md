@@ -36,6 +36,10 @@
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenuka99=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+
 
 
 [linkedin]: https://www.linkedin.com/in/janith-thenuka-herath-1345661a5 
