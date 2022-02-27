@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Janith Thenuka Herath aka thenuka99
 
+ <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
 
@@ -8,13 +9,11 @@
 
 <br>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&theme=radical"/>
-</div>
-
-<div>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenuka99&layout=compact"/>
-</div>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99e&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br>
 
 ## Technologies currently using
 
@@ -36,9 +35,9 @@
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-## :trophy: Git profile Trophies
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenuka99=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenuka99=compact&theme=algolia" alt="Thenuka99" /></a> </p>
 
 
 
