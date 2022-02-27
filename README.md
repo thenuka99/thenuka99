@@ -1,6 +1,8 @@
-### Hi there 👋 I am Janith Thenuka Herath aka thenuka99
 
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ 
+### Hi there 👋 I am Janith Thenuka Herath aka thenuka99
+
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
 
@@ -13,7 +15,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br>
+<br><br><br><br><br>
 
 ## Technologies currently using
 
