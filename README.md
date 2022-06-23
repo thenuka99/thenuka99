@@ -11,6 +11,8 @@
 - 📫 How to reach me **janithherath2@gmail.com**
 - 📝 I studied at Ananda College 
 - 💬 Ask me about: anything, I am happy to help
+- 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
+	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
 <p align="center">
@@ -59,7 +61,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="thenuka99" />
  </a>
 </p>
-
 
 
 [linkedin]: https://www.linkedin.com/in/janith-thenuka-herath-1345661a5 
