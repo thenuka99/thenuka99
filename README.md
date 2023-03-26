@@ -3,7 +3,7 @@
  
 ### Hi there 👋 I am Janith Thenuka Herath aka thenuka99
 
-> I am a hardworking individual who is dedicated towards his goals.
+> I am a hardworking individual who is dedicated towards my goals.
 <br />
 
 - 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
