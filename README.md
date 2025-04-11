@@ -6,8 +6,12 @@
 > I am a hardworking individual who is dedicated towards my goals.
 <br />
 
-- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🌱 
+B.Sc. (Hons.) in Information Technology
+University of Moratuwa
+- :computer: &nbsp;
+I’m currently working as a Software Engineer and Data Engineer, building scalable web applications, automating data workflows, and managing cloud infrastructure.
+- 🔗: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **janithherath2@gmail.com**
 - 📝 I studied at Ananda College 
 - 💬 Ask me about: anything, I am happy to help
